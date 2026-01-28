@@ -11,3 +11,8 @@ Analysis on ML Test Scores
 
 ## Task 4
 Diminos Case Study
+
+## Task 5
+Flask Application
+<br>
+deployed url : https://innomatics-66df.onrender.com
